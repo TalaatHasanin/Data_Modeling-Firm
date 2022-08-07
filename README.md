@@ -8,7 +8,7 @@ A commercial firm that has some special requirements to implement a system on th
 
 Using DBSchema I created a logical erd from the actual schema of this project that represent the relations between entities and consider the cardinality and participation of entities 
 
-![](images/Firm-ERD.jpg)
+![](Firm-ERD.jpg)
 
 
 
@@ -18,7 +18,9 @@ Using DBSchema I created a logical erd from the actual schema of this project th
 - I used SQLServer RDBMS and created the database using wizard in SSMS and creating tables using SQL queries.
 - I created constraint and relations on database using SQL.
 - Last thing is running the database diagram from SSMS
-![](images/Firm-Database_Diagram.JPG)
+![](Firm-Database_Diagram.JPG)
+
+
 ## Used Technologies
 - SQL Server Management Studio (SSMS)
 - DBSchema 
