@@ -18,6 +18,7 @@ Using DBSchema I created a logical erd from the actual schema of this project th
 - I used SQLServer RDBMS and created the database using wizard in SSMS and creating tables using SQL queries.
 - I created constraint and relations on database using SQL.
 - Last thing is running the database diagram from SSMS
+
 ![](Firm-Database_Diagram.JPG)
 
 
